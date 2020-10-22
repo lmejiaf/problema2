@@ -1,10 +1,10 @@
-package com.lmejiaf.problema2;
+package com.lmejiaf.pruebatuten;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Problema2ApplicationTests {
+class PruebaTutenApplicationTests {
 
 	@Test
 	void contextLoads() {
